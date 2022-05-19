@@ -1,2 +1,2 @@
 # Proyectos-Git
-Practicas básicas con Git
+LUIS HERRERA(practica)
