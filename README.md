@@ -1,2 +1,2 @@
 # Proyectos-Git
-Practicas básicas con Git
+Practicas básicas con git pull(luis herrera)

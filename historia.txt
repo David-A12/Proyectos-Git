@@ -1,4 +1,4 @@
-Este es el 1er archivo del repositorio.
+Este es una practica utilizando git pull
 
 Hola Mundo
 
